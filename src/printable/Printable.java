@@ -1,2 +1,5 @@
-package printable;public interface Printable {
+package printable;
+
+public interface Printable {
+    void print();
 }
